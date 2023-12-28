@@ -1,0 +1,24 @@
+{
+  "name": "Trust Wallet: Smart Chain",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "keywords": [
+    "wbnb"
+  ],
+  "tokens": [
+    {
+        "name": "Wrapped MIX",
+        "address": "0x449ff526a3D42c5293e19D68FA3c8D44ac47ee99",
+        "symbol": "WMIX",
+        "decimals": 18,
+        "chainId": 761412,
+        "logoURI": "https://raw.githubusercontent.com/fiwallets/token-list/miexs/web/native/761412.png"
+    }
+  ]
+}
