@@ -1,0 +1,25 @@
+{
+  "name": "clatscan Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/ECLATWORLD/danieleclat/main/logoeclat.png",
+  "keywords": [
+    "msdc",
+    "bsc"
+  ],
+  "tokens": [
+    {
+        "name": "Wrapped ETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 42070,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
+    }
+  ]
+}
