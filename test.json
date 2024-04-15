@@ -1,0 +1,41 @@
+{
+  "name": "Ethereum Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/eth.png",
+  "keywords": [
+    "usdc",
+    "usdt"
+  ],
+  "tokens": [
+  	{
+      "name": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/LiquidLayerOff/TokenBridgeList/main/usdc.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/LiquidLayerOff/TokenBridgeList/main/usdt.png"
+    },
+    {
+      "name": "OCAI",
+      "address": "0x4309E88D1D511F3764Ee0F154cEE98d783B61f09",
+      "symbol": "OCAI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/LiquidLayerOff/TokenBridgeList/main/usdt.png"
+    }
+  ]
+}
